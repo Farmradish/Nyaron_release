@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nr_Bobcut.label>coupe au carrée</Nr_Bobcut.label>
+  <Nr_Long.label>long</Nr_Long.label>
+  <Nr_Short.label>court</Nr_Short.label>
+  <Nr_Twin.label>couettes</Nr_Twin.label>
+  <Nr_Twintw.label>couettes entortillées</Nr_Twintw.label>
+  <Nr_ShortTwin.label>mini-couettes</Nr_ShortTwin.label>
+  <Nr_Pony.label>queue de cheval</Nr_Pony.label>
+</LanguageData>

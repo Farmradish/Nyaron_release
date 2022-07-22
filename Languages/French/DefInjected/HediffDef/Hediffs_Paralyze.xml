@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Nr_Paralyze.description>Paralisée à cause d'une décharge .</Nr_Paralyze.description> 
+   <Nr_Paralyze.label>paralysé</Nr_Paralyze.label> 
+   <Nr_Paralyze.stages.0.label>Niveau 1</Nr_Paralyze.stages.0.label> 
+   <Nr_Paralyze.stages.1.label>Niveau 2</Nr_Paralyze.stages.1.label> 
+   <Nr_Paralyze.stages.2.label>Niveau 3</Nr_Paralyze.stages.2.label> 
+   <Nr_Paralyze.stages.3.label>Niveau 4</Nr_Paralyze.stages.3.label> 
+   <Nr_Paralyze.stages.4.label>Niveau 5</Nr_Paralyze.stages.4.label> 
+   <Nr_Paralyze.stages.5.label>Niveau 6</Nr_Paralyze.stages.5.label> 
+   <Nr_Paralyze.stages.6.label>Niveau 7</Nr_Paralyze.stages.6.label> 
+   <Nr_Paralyze.stages.7.label>Niveau 8</Nr_Paralyze.stages.7.label> 
+   <Nr_Paralyze.stages.8.label>Niveau 9</Nr_Paralyze.stages.8.label> 
+   <Nr_Paralyze.stages.9.label>Maximum</Nr_Paralyze.stages.9.label> 
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronStart.label>Vaisseau de commerce écrasé (Nyaron)</NyaronStart.label> 
+   <NyaronStart.description>Le vaisseau de commerce qui voyagait entre les planètes a été fortement endommagé. Durant sa chute, des capsules de secours ont été envoyés à la surface.</NyaronStart.description> 
+   <NyaronStart.scenario.name>Vaisseau de commerce écrasé (Nyaron)</NyaronStart.scenario.name> 
+   <NyaronStart.scenario.description>Le vaisseau de commerce qui voyagait entre les planètes a été fortement endommagé. Durant sa chute, des capsules de secours ont été envoyés à la surface.</NyaronStart.scenario.description> 
+   <NyaronStart.scenario.summary>Sévère domage dans le noyau. Traitement du protocole "séparation"</NyaronStart.scenario.summary> 
+   <NyaronStart.scenario.parts.11.text>Après quelques minutes, les capsules de secours ont attéri au sol.</NyaronStart.scenario.parts.11.text> 
+
+</LanguageData>
