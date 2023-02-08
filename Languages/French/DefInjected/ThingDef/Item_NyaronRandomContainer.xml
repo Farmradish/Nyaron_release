@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nr_EPC.label>Conteneur Série-EP</Nr_EPC.label>
+  <Nr_EPC.description>C'est un conteneur de la moitiée de taille d'un humain ordinaire. Les mots suivants sont inscrits à sa surface "Personnage Standard de Rimworld"\nVous ne saurez jamais ce dans quoi vous vous lancez!\nVous avez concenti que tout conteneur ouvert ne peut être remboursé.</Nr_EPC.description>
+  <Nr_EPC.comps.CompUsable.useLabel>Ouvrir le Conteneur</Nr_EPC.comps.CompUsable.useLabel>
+
+</LanguageData>

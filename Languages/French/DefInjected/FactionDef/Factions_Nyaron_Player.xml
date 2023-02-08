@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <NyaronPlayerColony.label>Colonie Nyaron</NyaronPlayerColony.label> 
+   <NyaronPlayerColony.description>Votre propre colonie Nyaron.</NyaronPlayerColony.description> 
+   <NyaronPlayerColony.pawnsPlural>colons</NyaronPlayerColony.pawnsPlural> 
+   <NyaronPlayerColonyTribal.label>Tribu Nyaron</NyaronPlayerColonyTribal.label> 
+   <NyaronPlayerColonyTribal.description>Tribu Nyaron de départ. (Aucune recherche, grand niveau de technologie)</NyaronPlayerColonyTribal.description> 
+   <NyaronPlayerColonyTribal.pawnsPlural>colons</NyaronPlayerColonyTribal.pawnsPlural> 
+
+</LanguageData>

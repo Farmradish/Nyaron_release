@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronPlayerColonist.label>Colon Nyaron</NyaronPlayerColonist.label> 
+   <NyaronPlayerColonist.labelPlural>Colons Nyaron</NyaronPlayerColonist.labelPlural> 
+   <NyaronPlayerColonist.labelMale>Colon Nyaron</NyaronPlayerColonist.labelMale> 
+   <NyaronPlayerColonist.labelMalePlural>Colons Nyaron</NyaronPlayerColonist.labelMalePlural> 
+   <NyaronPlayerColonist.labelFemale>Colone Nyaron</NyaronPlayerColonist.labelFemale> 
+   <NyaronPlayerColonist.labelFemalePlural>Colones Nyaron</NyaronPlayerColonist.labelFemalePlural> 
+   <NyaronPlayerTribal.label>Tribu Nyaron</NyaronPlayerTribal.label> 
+   <NyaronPlayerTribal.labelPlural>Tribaux Nyaron</NyaronPlayerTribal.labelPlural> 
+   <NyaronPlayerTribal.labelMale>Tribal Nyaron</NyaronPlayerTribal.labelMale> 
+   <NyaronPlayerTribal.labelMalePlural>Tribaux Nyaron</NyaronPlayerTribal.labelMalePlural> 
+   <NyaronPlayerTribal.labelFemale>Tribale Nyaron</NyaronPlayerTribal.labelFemale> 
+   <NyaronPlayerTribal.labelFemalePlural>Tribales Nyaron</NyaronPlayerTribal.labelFemalePlural> 
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronStart_butler.label>Un travail de Majordome (facile)</NyaronStart_butler.label> 
+   <NyaronStart_butler.description>Un job à mi-temps avec un salaire de 100 argents à l'heure ! L'histoire d'un idiot qui est devenu fou en voyant l'annonce rencontre un chat dans un monde à l'écart.</NyaronStart_butler.description> 
+   <NyaronStart_butler.scenario.name>Un travail de Majordome (facile)</NyaronStart_butler.scenario.name> 
+   <NyaronStart_butler.scenario.description>Un job à mi-temps avec un salaire de 100 argents à l'heure ! L'histoire d'un idiot qui est devenu fou en voyant l'annonce rencontre un chat dans un monde à l'écart.</NyaronStart_butler.scenario.description> 
+   <NyaronStart_butler.scenario.summary>Vous avez été choisi comme Majordome.</NyaronStart_butler.scenario.summary> 
+   <NyaronStart_butler.scenario.parts.7.text>Enchanté. êtes-vous le nouveau majordome ? Le chat va surement être prêt de vous quand vous ouvrirez vos yeux. A propos de l'argent ? Quand le travail sera bien fait, nous en reparlerons. Maintenant, mettez vous vite au travail !\n(Vous avez très vite remarqué qu'on vous a roulé)</NyaronStart_butler.scenario.parts.7.text> 
+ 
+</LanguageData>
